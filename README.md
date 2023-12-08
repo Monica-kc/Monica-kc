@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monica-kc&label=Profile%20views&color=0e75b6&style=flat" alt="monica-kc" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React JS,Node and MongoDB**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript**
 
-- 📫 How to reach me **monicaglory05@gmail.com**
+- 📫 How to reach me **monicaglory05@gmail.com and 1ds21ai034@dsce.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
